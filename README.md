@@ -12,4 +12,3 @@ A modernized full-stack **Image Gallery** with upload, comments, and gallery vie
   - Backend → Render / Railway
 
 ## 📂 Project Structure
-# image-gallery
